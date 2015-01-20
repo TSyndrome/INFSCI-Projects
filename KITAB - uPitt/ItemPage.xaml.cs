@@ -14,7 +14,7 @@ using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
 using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
+using Windows.UI.Xaml.Media.Popop;
 using Windows.UI.Xaml.Navigation;
 
 // The Pivot Application template is documented at http://go.microsoft.com/fwlink/?LinkID=391641
